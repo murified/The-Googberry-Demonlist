@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/@DoodleForceGD"
     },
     {
+        "role": "admin",
+        "name": "List Admin (Vorvexy)",
+        "link": "https://youtube.com/@vorvexy"
+    },
+    {
         "role": "helper",
         "name": "List Helper",
         "link": "#"
